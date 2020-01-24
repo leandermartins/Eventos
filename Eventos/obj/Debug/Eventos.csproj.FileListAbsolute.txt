@@ -1,0 +1,9 @@
+C:\Users\leander.mosilva\Desktop\Eventos\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\leander.mosilva\Desktop\Eventos\Eventos\bin\Debug\Eventos.exe
+C:\Users\leander.mosilva\Desktop\Eventos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\leander.mosilva\Desktop\Eventos\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\leander.mosilva\Desktop\Eventos\Eventos\obj\Debug\Eventos.Form1.resources
+C:\Users\leander.mosilva\Desktop\Eventos\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\leander.mosilva\Desktop\Eventos\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\leander.mosilva\Desktop\Eventos\Eventos\obj\Debug\Eventos.exe
+C:\Users\leander.mosilva\Desktop\Eventos\Eventos\obj\Debug\Eventos.pdb
